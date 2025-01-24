@@ -75,8 +75,7 @@ This project delivers an **AI-Powered Chatbot** designed to simplify querying su
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo/backend
+   https://github.com/anurag8773/AI-Powered-Chatbot
    ```
 
 2. Install backend dependencies:
@@ -146,16 +145,6 @@ This project delivers an **AI-Powered Chatbot** designed to simplify querying su
 1. Access the application via the frontend web interface.
 2. Enter your query into the chatbot text input field.
 3. View structured, AI-enhanced responses in the conversational format.
-
----
-
-## Demo
-
-![Chatbot Workflow](https://github.com/user-attachments/assets/demo-image.png)
-
-**Video Demonstration:**
-[Video Link](#)
-
 
 ---
 
